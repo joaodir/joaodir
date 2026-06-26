@@ -25,6 +25,7 @@ Além da atuação no mercado, trago uma base acadêmica sólida: atuei na forma
 ## 🧠 Experiências
 
 - 🏢 Atuo como **estagiário** no Polo de Inovação do *Campus* de Formiga contribuindo para o desenvolvimento de motores de busca inteligentes através da aplicação de algoritmos de clusterização e estruturação de dados para o sistema da *ImobTech*.
+- Ensino Robótica Aplicada e Lógica de Programação para mais de 150 jovens na Escola Estadual João Batista de Carvalho, no *Projeto de Extensão* Mentes Robóticas.
 - 🚗 Integro a equipe de desenvolvimento, na **residência tecnológica** do Programa Bolsa Futuro Digital, de um sistema completo de gestão (alunos, frotas e instrutores) focado em resolver os desafios operacionais de uma rede de auto escolas.
 - 🐎 Participei, por um ano, no desenho arquitetural e no desenvolvimento front-end de uma plataforma digital focada no balanceamento e otimização de dietas para nutrição equina denonimada Escola de Saúde Digestiva do Cavalo através de um **projeto de extensão**.
 - 🔬 Sou membro do **grupo de pesquisa** GPSiscom no campus, onde exploro a interseção entre teoria acadêmica e o desenvolvimento prático de sistemas.
